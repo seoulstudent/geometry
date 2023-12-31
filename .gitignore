@@ -1,0 +1,11 @@
+# Build
+build/**
+
+# Thirdparty
+thirdparty/install/**
+
+# VSCode
+.vscode/**
+.idea/**
+.cache/**
+.history/**
